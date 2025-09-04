@@ -1,0 +1,5 @@
+{
+  "name": "Calculadora Financeira para Plano de Negócios",
+  "description": "Uma aplicação para calcular e visualizar métricas financeiras essenciais para um plano de negócios, incluindo Fluxo de Caixa, VPL, TIR e Payback. Permite a entrada de dados em uma linha do tempo, exibe gráficos e explicações detalhadas, e permite exportar os resultados.",
+  "requestFramePermissions": []
+}
